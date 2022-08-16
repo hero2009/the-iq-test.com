@@ -2,4 +2,4 @@
 
 
 
-click to visit website: https://iqtest.github.com
+click to visit website: https://iqtest.com
